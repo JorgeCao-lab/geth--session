@@ -1,0 +1,32 @@
+@use '../abstracts/variables.scss';
+
+body{
+    font-family:'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+ol ,ul{
+    list-style: none;
+    color: variables.$gris-suave;
+}
+
+li{
+    list-style:none;
+}
+
+a{
+    text-decoration: none;
+}
+
+p{
+    color: variables.$gris-suave;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+h1{
+    color: variables.$blanco-puro;
+    font-size: 52px;
+    font-weight: 800;
+}
