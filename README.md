@@ -34,7 +34,7 @@ Practicar maquetación profesional, estructura de estilos y flujo de trabajo con
 ---
 
 ## 🌐 Deploy
-👉 [Ver sitio en vivo](geth-session.vercel.app)
+👉 [Ver sitio en vivo](https://geth-session.vercel.app/)
 
 ---
 
